@@ -13,8 +13,9 @@
   z-index: 1000;
   color: var(--gray-00);
   width: 100%;
-  padding: 0 15px;
   top: 0;
+  align-items: center;
+  padding: 2%;
 }
 
 .universal-nav a {
